@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "MOgdXvudXltm+uKdCyBfB0sbFXg=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "b66d043e6c8986ca01241b990326db395f9c0afd",
+			"revisionTime": "2019-12-12T00:19:55Z"
+		},
+		{
+			"checksumSHA1": "x4J9rve8UG/UDVHtj7JuTbq7Mzg=",
+			"path": "github.com/gomodule/redigo/redis",
+			"revision": "09d84710e01a746165eadd36e85d25e0e1923cff",
+			"revisionTime": "2019-11-08T16:41:05Z"
+		}
+	],
+	"rootPath": "taskmanage"
+}
